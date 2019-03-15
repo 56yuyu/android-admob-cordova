@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.mzy.admobtest"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.mzy.admobtest"
+    },
+    "cordova-plugin-admob-simple": {
+      "PACKAGE_NAME": "com.mzy.admobtest"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-admob-sdklibs": {
+      "PACKAGE_NAME": "com.mzy.admobtest"
+    }
+  }
+}

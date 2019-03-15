@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Admob-Sample</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="admob_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_id_test">ca-app-pub-5640762471504697~4477895708</string>
+</resources>

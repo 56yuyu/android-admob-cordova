@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+            "map": [
+                {
+                    "source": "/Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/856bbfb25bc2ee41660887e30b396380/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "929",
+                        "endColumns": "100",
+                        "endOffsets": "1025"
+                    }
+                },
+                {
+                    "source": "/Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.1.aar/bb39a05740166fb4bdbff332c2e0e01f/res/values-lv/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,272,375,441,507,591,697",
+                        "endColumns": "74,102,65,65,83,105,70",
+                        "endOffsets": "271,374,440,506,590,696,767"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "330,409,516,586,656,744,854",
+                        "endColumns": "78,106,69,69,87,109,74",
+                        "endOffsets": "404,511,581,651,739,849,924"
+                    }
+                },
+                {
+                    "source": "/Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e59fa629977eacf595e446bc3e407e09/res/values-lv/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "224",
+                        "endOffsets": "471"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "224",
+                        "endOffsets": "325"
+                    }
+                }
+            ]
+        }
+    ]
+}

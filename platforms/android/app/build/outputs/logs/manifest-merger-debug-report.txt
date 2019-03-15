@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.1.aar/bb39a05740166fb4bdbff332c2e0e01f/AndroidManifest.xml:17:1-25:12
+MERGED from [:CordovaLib] /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/afe7912fbfa5f309773a083d377ff4bb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.1.aar/ac9cd0a863d125cb37b5da0e771c8447/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.1.aar/e593511a02d7b20d158d4777321342bc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6ad02fa848e763656c59baa5fba04ae7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/fee30f41374347864f554360270aa9f1/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/5bb30b3eb15b70249574b033dcbf23b2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e59fa629977eacf595e446bc3e407e09/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/93bf4d356ea5c7c445a5e69cf05d26eb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/53f8293f36c6051174487c822055b452/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/67db325be672d7036218772dc99e05a2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/007f52b82b65a64a1529688f47f2252f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bb61f71d843b5a7beaad766d7090ea0d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/856bbfb25bc2ee41660887e30b396380/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/99f7337fc47cf8bb2e92a3b36b3e5afa/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:102-129
+		INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:74-101
+		INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:130-188
+	android:versionCode
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:2:46-73
+		INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/fee30f41374347864f554360270aa9f1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/fee30f41374347864f554360270aa9f1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/fee30f41374347864f554360270aa9f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/fee30f41374347864f554360270aa9f1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:9:5-21:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/afe7912fbfa5f309773a083d377ff4bb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/afe7912fbfa5f309773a083d377ff4bb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.1.aar/ac9cd0a863d125cb37b5da0e771c8447/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.1.aar/ac9cd0a863d125cb37b5da0e771c8447/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.1.aar/e593511a02d7b20d158d4777321342bc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.1.aar/e593511a02d7b20d158d4777321342bc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6ad02fa848e763656c59baa5fba04ae7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6ad02fa848e763656c59baa5fba04ae7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/fee30f41374347864f554360270aa9f1/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/fee30f41374347864f554360270aa9f1/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/5bb30b3eb15b70249574b033dcbf23b2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/5bb30b3eb15b70249574b033dcbf23b2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e59fa629977eacf595e446bc3e407e09/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e59fa629977eacf595e446bc3e407e09/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/93bf4d356ea5c7c445a5e69cf05d26eb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/93bf4d356ea5c7c445a5e69cf05d26eb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/53f8293f36c6051174487c822055b452/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/53f8293f36c6051174487c822055b452/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/67db325be672d7036218772dc99e05a2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/67db325be672d7036218772dc99e05a2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/007f52b82b65a64a1529688f47f2252f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/007f52b82b65a64a1529688f47f2252f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bb61f71d843b5a7beaad766d7090ea0d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bb61f71d843b5a7beaad766d7090ea0d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/856bbfb25bc2ee41660887e30b396380/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/856bbfb25bc2ee41660887e30b396380/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/99f7337fc47cf8bb2e92a3b36b3e5afa/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/99f7337fc47cf8bb2e92a3b36b3e5afa/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:9:114-140
+	android:label
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:9:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:9:18-52
+	android:icon
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:9:53-80
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:11:9-12:57
+	android:value
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:12:17-54
+	android:name
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:11:20-76
+activity#com.mzy.admobtest.MainActivity
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:14:9-19:20
+	android:label
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:14:97-134
+	android:launchMode
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:14:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:14:257-299
+	android:configChanges
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:14:19-96
+	android:theme
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:14:194-256
+	android:name
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:14:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:15:13-18:29
+	android:label
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:15:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:20:9-233
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:20:19-128
+	android:theme
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:20:182-230
+	android:name
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:20:129-181
+uses-sdk
+ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:22:5-74
+INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:22:5-74
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.1.aar/bb39a05740166fb4bdbff332c2e0e01f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.1.aar/bb39a05740166fb4bdbff332c2e0e01f/AndroidManifest.xml:21:5-23:62
+MERGED from [:CordovaLib] /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/afe7912fbfa5f309773a083d377ff4bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/afe7912fbfa5f309773a083d377ff4bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.1.aar/ac9cd0a863d125cb37b5da0e771c8447/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.1.aar/ac9cd0a863d125cb37b5da0e771c8447/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.1.aar/e593511a02d7b20d158d4777321342bc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.1.aar/e593511a02d7b20d158d4777321342bc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6ad02fa848e763656c59baa5fba04ae7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6ad02fa848e763656c59baa5fba04ae7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/fee30f41374347864f554360270aa9f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/fee30f41374347864f554360270aa9f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/5bb30b3eb15b70249574b033dcbf23b2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/5bb30b3eb15b70249574b033dcbf23b2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e59fa629977eacf595e446bc3e407e09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e59fa629977eacf595e446bc3e407e09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/93bf4d356ea5c7c445a5e69cf05d26eb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/93bf4d356ea5c7c445a5e69cf05d26eb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/53f8293f36c6051174487c822055b452/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/53f8293f36c6051174487c822055b452/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/67db325be672d7036218772dc99e05a2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/67db325be672d7036218772dc99e05a2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/007f52b82b65a64a1529688f47f2252f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/007f52b82b65a64a1529688f47f2252f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bb61f71d843b5a7beaad766d7090ea0d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bb61f71d843b5a7beaad766d7090ea0d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/856bbfb25bc2ee41660887e30b396380/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/856bbfb25bc2ee41660887e30b396380/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/99f7337fc47cf8bb2e92a3b36b3e5afa/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/99f7337fc47cf8bb2e92a3b36b3e5afa/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:22:5-74
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.1.aar/bb39a05740166fb4bdbff332c2e0e01f/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:22:42-71
+	android:minSdkVersion
+		ADDED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml:22:15-41
+		INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/afe7912fbfa5f309773a083d377ff4bb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/93bf4d356ea5c7c445a5e69cf05d26eb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/93bf4d356ea5c7c445a5e69cf05d26eb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/53f8293f36c6051174487c822055b452/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/53f8293f36c6051174487c822055b452/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/67db325be672d7036218772dc99e05a2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/67db325be672d7036218772dc99e05a2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/007f52b82b65a64a1529688f47f2252f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/007f52b82b65a64a1529688f47f2252f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bb61f71d843b5a7beaad766d7090ea0d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bb61f71d843b5a7beaad766d7090ea0d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/856bbfb25bc2ee41660887e30b396380/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/856bbfb25bc2ee41660887e30b396380/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/afe7912fbfa5f309773a083d377ff4bb/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/afe7912fbfa5f309773a083d377ff4bb/AndroidManifest.xml:24:13-51
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/e6c212d07bca5eb8f484e57b915cdff5/AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/fee30f41374347864f554360270aa9f1/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/fee30f41374347864f554360270aa9f1/AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e59fa629977eacf595e446bc3e407e09/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e59fa629977eacf595e446bc3e407e09/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e59fa629977eacf595e446bc3e407e09/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/99f7337fc47cf8bb2e92a3b36b3e5afa/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/99f7337fc47cf8bb2e92a3b36b3e5afa/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/b1developer/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/99f7337fc47cf8bb2e92a3b36b3e5afa/AndroidManifest.xml:26:13-58

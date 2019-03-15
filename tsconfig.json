@@ -1,0 +1,17 @@
+{
+    "version": "2.0.2",
+    "compilerOptions": {
+        "lib": ["es5", "es2015.promise", "dom", "es2015"],
+        "outDir": "js",
+        "target": "es5",
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "declaration": false,
+        "sourceMap": true
+    },
+    "include": [
+        "ts"
+    ]
+}

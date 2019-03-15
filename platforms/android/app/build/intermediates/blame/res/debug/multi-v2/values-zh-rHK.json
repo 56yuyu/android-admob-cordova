@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "/Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e59fa629977eacf595e446bc3e407e09/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "166",
+                        "endOffsets": "417"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "166",
+                        "endOffsets": "267"
+                    }
+                },
+                {
+                    "source": "/Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.1.aar/bb39a05740166fb4bdbff332c2e0e01f/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "201,262,335,395,455,519,589",
+                        "endColumns": "60,72,59,59,63,69,61",
+                        "endOffsets": "261,334,394,454,518,588,650"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "272,337,414,478,542,610,684",
+                        "endColumns": "64,76,63,63,67,73,65",
+                        "endOffsets": "332,409,473,537,605,679,745"
+                    }
+                },
+                {
+                    "source": "/Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/856bbfb25bc2ee41660887e30b396380/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "101",
+                        "endOffsets": "152"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "750",
+                        "endColumns": "101",
+                        "endOffsets": "847"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/b1developer/Desktop/ProjectHybrid/cordova-basic-admob/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
+            "map": [
+                {
+                    "source": "/Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e59fa629977eacf595e446bc3e407e09/res/values-nb/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "188",
+                        "endOffsets": "435"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "188",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/b1developer/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.1.aar/bb39a05740166fb4bdbff332c2e0e01f/res/values-nb/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,265,372,435,498,581,688",
+                        "endColumns": "67,106,62,62,82,106,68",
+                        "endOffsets": "264,371,434,497,580,687,756"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "294,366,477,544,611,698,809",
+                        "endColumns": "71,110,66,66,86,110,72",
+                        "endOffsets": "361,472,539,606,693,804,877"
+                    }
+                },
+                {
+                    "source": "/Users/b1developer/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/856bbfb25bc2ee41660887e30b396380/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "882",
+                        "endColumns": "100",
+                        "endOffsets": "978"
+                    }
+                }
+            ]
+        }
+    ]
+}
